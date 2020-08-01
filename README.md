@@ -1,6 +1,6 @@
 # rainmeter_v2
 
-misam
+copy folder misam in ..\Rainmeter\Skins\
 
 rainmeter code
 
